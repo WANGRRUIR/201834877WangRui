@@ -63,7 +63,7 @@ def datePreHandle(filePath):
 #nltk.download('stopwords')
 #nltk.download('punkt')
 
-dataPath='/home/wangrui/data/20news-18828/'
+#dataPath='/home/wangrui/data/20news-18828/'
 
 #dirs=os.listdir(path)
 #print(dirs)
